@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T10:39:13 ICT" name="FirstAndroidTest" finished-at="2022-06-08T10:39:13 ICT" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T10:39:13 ICT" name="Command line test" finished-at="2022-06-08T10:39:13 ICT" duration-ms="37">
+      <class name="FirstAndroidTest">
+        <test-method signature="test()[pri:0, instance:FirstAndroidTest@c540f5a]" started-at="2022-06-08T10:39:13 ICT" name="test" finished-at="2022-06-08T10:39:13 ICT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- FirstAndroidTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- FirstAndroidTest -->
+</testng-results>
